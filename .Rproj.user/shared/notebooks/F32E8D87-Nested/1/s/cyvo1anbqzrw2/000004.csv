@@ -1,6 +1,0 @@
-"0","nested.loan <- test %>% "
-"0","  list() %>% "
-"0","  rep(nrow(nested.loan)) %>% "
-"0","  enframe(name = ""Id"",value = ""test.x"") %>% "
-"0","  left_join(nested.loan, by = ""Id"")"
-"0","nested.loan"

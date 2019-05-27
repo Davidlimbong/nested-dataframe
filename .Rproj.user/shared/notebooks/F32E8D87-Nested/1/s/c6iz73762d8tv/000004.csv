@@ -1,4 +1,0 @@
-"0","nested.loan <- nested.loan %>% "
-"0","  mutate(Accuracy = map_dbl(model, ~max(.x$results$Accuracy))) %>% "
-"0","  arrange(desc(Accuracy))"
-"0","nested.loan"

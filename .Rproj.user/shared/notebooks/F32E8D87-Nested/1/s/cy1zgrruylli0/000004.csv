@@ -1,3 +1,0 @@
-"0","nested.loan <- nested.loan %>% "
-"0","  bind_cols(model_list)"
-"0","nested.loan"

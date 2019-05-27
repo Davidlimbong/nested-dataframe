@@ -1,6 +1,0 @@
-"0","nested.split <- loan %>%"
-"0","  group_by(checking_balance) %>% "
-"0","  nest(.key = ""rawdata"") %>% "
-"0","  mutate(train.x = map(rawdata, ~select(.x, -default)),"
-"0","         train.y = map(rawdata, ~.x$default))"
-"0","nested.split"

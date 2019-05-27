@@ -1,3 +1,0 @@
-"0","nested.rf <- nested.rf %>% "
-"0","  mutate(Accuracy = map_dbl(model, ~max(.x$results$Accuracy)))"
-"0","nested.rf"

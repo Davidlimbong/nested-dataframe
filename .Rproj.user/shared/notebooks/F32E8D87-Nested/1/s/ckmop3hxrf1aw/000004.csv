@@ -1,4 +1,0 @@
-"0","nested.rf <- nested.split %>% "
-"0","  mutate(param = map2(train.x, train.y, ~list(.x, .y)),"
-"0","         model = invoke_map(RandomForestModel,param))"
-"0","nested.rf"

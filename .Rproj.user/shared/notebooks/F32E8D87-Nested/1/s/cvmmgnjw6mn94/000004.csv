@@ -1,2 +1,0 @@
-"0","nested.multi <- nested.multi %>% "
-"0","  mutate(Accuracy = map_dbl(model, ~max(.x$results$Accuracy)))"
