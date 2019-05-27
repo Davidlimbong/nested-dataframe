@@ -1,0 +1,4 @@
+"0","nested.loan <- nested.loan %>% "
+"0","  mutate(parm = map2(train.x, train.y, ~list(.x, .y)),"
+"0","         model = invoke_map(model,parm))"
+"0","nested.loan"

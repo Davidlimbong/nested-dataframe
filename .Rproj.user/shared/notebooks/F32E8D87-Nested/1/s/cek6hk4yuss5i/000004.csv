@@ -1,0 +1,5 @@
+"0","nmodel <- length(model_list) #get length of model_list"
+"0","nested.loan <- list(loan) %>% "
+"0","  rep(nmodel) %>% "
+"0","  enframe(name = ""Id"", value = ""rawdata"")"
+"0","nested.loan"

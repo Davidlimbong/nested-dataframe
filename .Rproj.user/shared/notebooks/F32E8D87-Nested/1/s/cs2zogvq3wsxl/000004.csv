@@ -1,0 +1,4 @@
+"0","nested.loan <- nested.loan %>% "
+"0","  mutate(train.x = map(rawdata, ~select(.x, -default)),"
+"0","         train.y = map(rawdata, ~.x$default))"
+"0","nested.loan"

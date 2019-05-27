@@ -1,0 +1,4 @@
+"0","model_list <- list(rpart = RpartModel,"
+"0","                   rforest = RandomForestModel) %>%"
+"0","    enframe(name = 'modelName',value = 'model')"
+"0","model_list"

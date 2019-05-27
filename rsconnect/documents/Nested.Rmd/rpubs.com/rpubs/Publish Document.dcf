@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/458375/eb93e64220194d05b519e2cf163af240
+bundleId: https://api.rpubs.com/api/v1/document/458375/eb93e64220194d05b519e2cf163af240
+url: http://rpubs.com/David21/458375
+when: 1547541970.47894
